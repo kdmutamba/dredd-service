@@ -1,2 +1,2 @@
-# dredd-service
+# Dredd-service
 server with custom services
